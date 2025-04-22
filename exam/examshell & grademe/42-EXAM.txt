@@ -1,0 +1,1 @@
+Open 42-EXAM dir in terminal and run "bash .system/launch.sh all" 2 times.
